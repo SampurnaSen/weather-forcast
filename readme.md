@@ -3,14 +3,14 @@ This project aims at returning weather forcast based on location and day.
 By default day would be today for a selected location. Client side displays the location, day, climate description, weather icon, minimum temperature and maximum temperature.
 
 Some locations that can be used for testing are:
-Sydney
-Melbourne
-Kaduna
-Mumbai
+Sydney,
+Melbourne,
+Kaduna,
+Mumbai,
 Kano,
 Chicago,
-Florida
-Delhi
+Florida,
+Delhi,
 Gujrat
 
 ## Local Run
