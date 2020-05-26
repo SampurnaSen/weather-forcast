@@ -1,4 +1,4 @@
-# NewsCorp Coding exercise for weather forcast
+# Coding exercise for weather forcast
 This project aims at returning weather forcast based on location and day.
 By default day would be today for a selected location. Client side displays the location, day, climate description, weather icon, minimum temperature and maximum temperature.
 
